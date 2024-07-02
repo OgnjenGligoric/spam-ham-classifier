@@ -4,3 +4,8 @@ notebook
 matplotlib
 seaborn
 thundersvm
+keras
+torch
+torchvision
+torchaudio
+tensorflow
