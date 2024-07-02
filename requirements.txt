@@ -3,3 +3,4 @@ scikit-learn
 notebook
 matplotlib
 seaborn
+thundersvm
